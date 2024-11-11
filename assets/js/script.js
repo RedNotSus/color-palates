@@ -29,7 +29,7 @@ function changeTheme(theme) {
       colors = ["#232634", "#303446", "#414559", "#737994", "#c6d0f5"];
       break;
     case 3:
-      colors = ["#11111b", "#1e1e2e", "#313244", "#45475a", "#cdd6f4"];
+      colors = ["#181926", "#1e2030", "#24273a", "#5b6078", "#cad3f5"];
       break;
     case 4:
       colors = ["#11111b", "#1e1e2e", "#313244", "#45475a", "#cdd6f4"];
