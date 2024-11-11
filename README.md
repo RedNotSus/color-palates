@@ -15,9 +15,9 @@
     <br />
     <a href="https://colors.ch3n.cc">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/gms-movies/issues">Report Bug</a>
+    <a href="https://github.com/RedNotSus/color-palattes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSus/gms-movies/issues">Request Feature</a>
+    <a href="https://github.com/RedNotSus/color-palattes/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,8 +64,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/gms-movies/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/gms-movies" alt="contrib.rocks image" />
+<a href="https://github.com/RedNotSus/color-palattes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rednotsus/color-palattes" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
